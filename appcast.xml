@@ -2,5 +2,13 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Work Mail</title>
+    <item>
+      <title>Version 1.0 (2)</title>
+      <pubDate>Tue, 27 Oct 2026 18:36:32 -0400</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/moshed/work-mail-releases/releases/download/v1.0-2/WorkMail-1.0-2.zip" sparkle:edSignature="D0ejpXyBSs61ZDkCY+4eG/FmVLYfDlQMg688tfeoGAaruwYPmDgzzaWQSNvYbmX2122LhPuGH+ANkn7/KUVfDA==" length="52338280" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
