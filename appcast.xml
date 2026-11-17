@@ -3,6 +3,14 @@
   <channel>
     <title>Work Mail</title>
     <item>
+      <title>Version 1.0 (14)</title>
+      <pubDate>Tue, 17 Nov 2026 13:51:08 -0500</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/moshed/work-mail-releases/releases/download/v1.0-14/WorkMail-1.0-14.zip" sparkle:edSignature="fHHaXOHfdlcSCpm6JIVS3zZwI3h+yLaJm+Odvs1D+z465Q786wI0EmV48XES/lV00Z1UhN/BXRzQytRpALQ+Bg==" length="57030818" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.0 (13)</title>
       <pubDate>Mon, 16 Nov 2026 18:55:49 -0500</pubDate>
       <sparkle:version>13</sparkle:version>
